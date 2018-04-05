@@ -2,11 +2,11 @@
 	Convert a integer to its english words representation.
 
 	For example:
-		0 		-> "Zero"
-		123 	-> "One Hundred Twenty Three"
-		12345 	-> "Twelve Thousand Three Hundred Forty Five"
+		0       -> "Zero"
+		123     -> "One Hundred Twenty Three"
+		12345   -> "Twelve Thousand Three Hundred Forty Five"
 		1234567 -> "One Million Two Hundred Thirty Four Thousand Five Hundred Sixty Seven"
-		-123	-> "Negative One Hundred Twenty Three"
+		-123    -> "Negative One Hundred Twenty Three"
 */
 #include <string>
 
